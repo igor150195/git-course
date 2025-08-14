@@ -2,3 +2,5 @@
 
 
 Crash course for Git
+
+Этот текст добавлен в ветке add-info
