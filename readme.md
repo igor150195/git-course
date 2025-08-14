@@ -2,3 +2,6 @@
 
 
 Crash course for Git
+
+
+Этот текст изменён в ветке master
